@@ -7,12 +7,12 @@ Hi, I am Radu - a Software engineer with an interest in building efficient, reli
 
 ## 🔭 I have worked with... 
 
-| Progarmming Languages | Frameworks    | Messaging | Data Stores | Cloud Frameworks & Tools           | SRE       | Containers  | Miscellaneous             |
+|  Languages            | Frameworks    | Messaging | Data Stores | Cloud Frameworks & Tools           | SRE       | Containers  | Miscellaneous             |
 |    :----:             |    :----:     | :----:    | :----:      | :----:                             | :----:    |    :----:   | :----:                    | 
 | Java (8,11,17)        | Vert.x        |  Kafka    | PostgreSQL  | AWS (Certified Solutions Architect)| Prometheus| AWS Fargate | Agile (Scrum, XP, Kanban) |
 | Python                | Spring Boot   |           | MongoDB     | Cloud Foundry                      | Graphite  | Docker      | Microservices             |
 | Groovy                |               |           | DynamoDB    |                                    | Grafana   | Kubernetes  | REST, gRPC                |
-|                       |               |           | MariaDB     |                                    |           |             |                           |
+|                       |               |           | MariaDB     |                                    |           |             | Test Driven Development   |
 
 
 ## 🌱 I’m interested in...  
