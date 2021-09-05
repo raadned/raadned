@@ -1,7 +1,7 @@
 
 # About me
 
-Hi, I am Radu - a Software engineer with an interest in building efficient, reliable and scalable software in the Cloud.
+Hi, I am Radu - a Software engineer with an interest in building efficient, reliable and scalable software applications in the Cloud.
 
 ## Experienced in
 
