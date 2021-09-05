@@ -13,14 +13,14 @@ Hi, I am Radu - a Software engineer with an interest in building efficient, reli
 | Python                | Spring Boot   |           | MongoDB     | Cloud Foundry                      | Graphite     | Docker      | Microservices             |
 | Groovy                | RxJava        |           | DynamoDB    |                                    | Grafana      | Kubernetes  | REST, gRPC                |
 | JavaScript            |               |           | MariaDB     |                                    | Unix         |             | Test Driven Development   |
-|                       |               |           |      |                                           | BASH, Python |             | Scripting (BASH, Python)  |
+|                       |               |           |             |                                    | BASH, Python |             | Scripting (BASH, Python)  |
 
 
 ## 🌱 I’m interested in...  
 
-### Software Architecture
+#### Software Architecture
 
-### Site Reliability Engineering
+#### Site Reliability Engineering
 
 <!--
 **raadned/raadned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
