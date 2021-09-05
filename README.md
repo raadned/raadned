@@ -1,4 +1,16 @@
-### Hi there 👋
+
+### Radu
+
+I am a software engineer who is passionate about backend and cloud native development.
+
+## Areas of interest
+
+SRE
+Software Architecture
+Java World
+Python
+
+
 
 <!--
 **raadned/raadned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
