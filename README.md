@@ -1,7 +1,7 @@
 
 ### Radu
 
-I am a software engineer who is passionate about backend and Cloud Native Development.
+Software engineer with an interest in Cloud Native Development. 
 
 ## Tech stack
 
