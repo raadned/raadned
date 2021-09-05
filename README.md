@@ -5,7 +5,7 @@ Hi, I am Radu - a Software engineer with an interest in building efficient, reli
 
 
 
-## I have worked with... 🔭
+## 🔭 I have worked with... 
 
 | Progarmming Languages | Frameworks    | Messaging | Data Stores | Cloud Frameworks & Tools           | SRE       | Containers  | Miscellaneous             |
 |    :----:             |    :----:     | :----:    | :----:      | :----:                             | :----:    |    :----:   | :----:                    | 
@@ -15,7 +15,7 @@ Hi, I am Radu - a Software engineer with an interest in building efficient, reli
 |                       |               |           | MariaDB     |                                    |           |             |                           |
 
 
-## I’m interested in... 🌱 
+## 🌱 I’m interested in...  
 
 ### Software Architecture
 
