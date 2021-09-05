@@ -1,48 +1,52 @@
 
 # About me
 
-Hi, I am Radu - a Software engineer with an interest in Cloud Native Development. 
+Hi, I am Radu - a Software engineer with an interest in building reliable and efficient software. 
 
-## Tech Bundle
+## Experienced in
 
 ###  Programming Languages
-
 <li> Java (8,11,17)
 <li> Python (3.x+)
 <li> Groovy
   
 ###  Frameworks
-  
 <li> Vert.x 
 <li> Spring Boot
   
-##  Messaging
+### Messaging
 <li> Apache Kafka
-  
-##  Software Development Methodologies
-<li> XP
-<li> Scrum
-<li> Lean
-  
-  
-###  Cloud
-<li> AWS (certified Solutions Architect)
-  
-###  SRE
-  
-<li> Prometheus
-<li> Graphite
-<li> Grafana
-  
+
 ###  Data Stores
-  
 <li> PostgreSQL
 <li> MongoDB
 <li> DynamoDB
 <li> MariaDB
+  
+###  Cloud
+<li> AWS (certified Solutions Architect)
+<li> Cloud Foundry
+  
+###  SRE
+<li> Prometheus
+<li> Graphite
+<li> Grafana
+  
+###  Containers
+<li> Docker
+<li> AWS Fargate
+<li> Kubernetes
+  
+### Miscellaneous 
+<li> Agile
+<li> Scrum
+<li> XP
+<li> REST
+<li> gRPC
+<li> Microservices
+  
 
 ##  Areas of Interest
-
 <li> Cloud
 <li> SRE
 <li> Software Architecture
