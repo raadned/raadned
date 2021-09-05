@@ -7,10 +7,12 @@ Hi, I am Radu - a Software engineer with an interest in building efficient, reli
 
 ## Experienced in
 
-| Progarmming Languages | Frameworks    |
-|    :----:             |    :----:     |
-| Java                  | Vert.x        |
-| Python                | Spring Boot   |
+| Progarmming Languages | Frameworks    | Messaging | Data Stores | Cloud | SRE   | Containers | Miscellaneous |
+|    :----:             |    :----:     | :----:    | :----:      | :----:| :----:|    :----:  | :----:        | 
+| Java (8,11,17)        | Vert.x        |  Kafka    | PostgreSQL  | AWS (Certified Solutions Architect)|
+| Python                | Spring Boot   |           | MongoDB     |
+| Groovy                |               |           | DynamoDB    | 
+
 
 ###  Programming Languages
 <li> Java (8,11,17)
