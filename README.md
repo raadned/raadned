@@ -1,15 +1,44 @@
 
 ### Radu
 
-I am a software engineer who is passionate about backend and cloud native development.
+I am a software engineer who is passionate about backend and Cloud Native Development.
 
-## Areas of interest
+## Tech stack
 
-SRE
-Software Architecture
-Java World
-Python
+# Programming Languages
 
+<li> Java (8,11,17)
+<li> Python (3.x+)
+<li> Groovy
+  
+# Frameworks
+  
+<li> Vert.X 
+<li> Spring Boot
+  
+  
+# Cloud
+<li> AWS (certified Solutions Architect)
+  
+# SRE
+  
+<li> Prometheus
+<li> Graphite
+<li> Grafana
+  
+# Data Stores
+  
+<li> PostgreSQL
+<li> MongoDB
+<li> DynamoDB
+<li> MariaDB
+
+## Areas of Interest
+
+<li> SRE
+<li> Software Architecture
+<li> Java World
+<li> Python
 
 
 <!--
