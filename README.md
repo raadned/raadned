@@ -3,7 +3,7 @@
 
 Hi, I am Radu - a Software engineer with an interest in Cloud Native Development. 
 
-## Tech stack
+## Tech Bundle
 
 ###  Programming Languages
 
@@ -13,8 +13,16 @@ Hi, I am Radu - a Software engineer with an interest in Cloud Native Development
   
 ###  Frameworks
   
-<li> Vert.X 
+<li> Vert.x 
 <li> Spring Boot
+  
+##  Messaging
+<li> Apache Kafka
+  
+##  Software Development Methodologies
+<li> XP
+<li> Scrum
+<li> Lean
   
   
 ###  Cloud
