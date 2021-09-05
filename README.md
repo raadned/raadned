@@ -1,59 +1,22 @@
 
 # About me
 
-Hi, I am Radu - a Software engineer with an interest in building efficient, reliable and scalable software applications in the Cloud.
+Hi, I am Radu - a Software engineer with an interest in building efficient, reliable and scalable software solutions in the Cloud.
 
 
 
 ## Experienced in
 
-| Progarmming Languages | Frameworks    | Messaging | Data Stores | Cloud | SRE   | Containers | Miscellaneous |
-|    :----:             |    :----:     | :----:    | :----:      | :----:| :----:|    :----:  | :----:        | 
-| Java (8,11,17)        | Vert.x        |  Kafka    | PostgreSQL  | AWS (Certified Solutions Architect)|
-| Python                | Spring Boot   |           | MongoDB     |
-| Groovy                |               |           | DynamoDB    | 
+| Progarmming Languages | Frameworks    | Messaging | Data Stores | Cloud Frameworks & Tools           | SRE       | Containers  | Miscellaneous |
+|    :----:             |    :----:     | :----:    | :----:      | :----:                             | :----:    |    :----:   | :----:        | 
+| Java (8,11,17)        | Vert.x        |  Kafka    | PostgreSQL  | AWS (Certified Solutions Architect)| Prometheus| AWS Fargate | Agile (Scrum, XP, Kanban) |
+| Python                | Spring Boot   |           | MongoDB     | Cloud Foundry                      | Graphite  | Docker      | Microservice              |
+| Groovy                |               |           | DynamoDB    |                                    | Grafana   | Kubernetes  | REST, gRPC                |
+|                       |               |           | MariaDB     |                                    |           |             |                           |
 
-
-###  Programming Languages
-<li> Java (8,11,17)
-<li> Python (3.x+)
-<li> Groovy
-  
-###  Frameworks
-<li> Vert.x 
-<li> Spring Boot
-  
-### Messaging
-<li> Apache Kafka
-
-###  Data Stores
-<li> PostgreSQL
-<li> MongoDB
-<li> DynamoDB
-<li> MariaDB
-  
-###  Cloud
-<li> AWS (certified Solutions Architect)
-<li> Cloud Foundry
-  
-###  SRE
-<li> Prometheus
-<li> Graphite
-<li> Grafana
-  
-###  Containers
-<li> Docker
-<li> AWS Fargate
-<li> Kubernetes
-  
-### Miscellaneous 
-<li> Agile (Scrum, XP)
-<li> Microservices
-<li> Service interaction: REST, gRPC
-  
 
 ##  Areas of Interest
-<li> Software Architecture for the Cloud
+<li> Software Architecture in the Cloud
 <li> SRE
 
 <!--
