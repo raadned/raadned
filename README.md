@@ -3,7 +3,14 @@
 
 Hi, I am Radu - a Software engineer with an interest in building efficient, reliable and scalable software applications in the Cloud.
 
+
+
 ## Experienced in
+
+| Progarmming Languages | Frameworks    |
+|    :----:             |    :----:     |
+| Java                  | Vert.x        |
+| Python                | Spring Boot   |
 
 ###  Programming Languages
 <li> Java (8,11,17)
