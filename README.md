@@ -1,44 +1,43 @@
 
-### Radu
+# About me
 
-Software engineer with an interest in Cloud Native Development. 
+Hi, I am Radu - a Software engineer with an interest in Cloud Native Development. 
 
 ## Tech stack
 
-# Programming Languages
+###  Programming Languages
 
 <li> Java (8,11,17)
 <li> Python (3.x+)
 <li> Groovy
   
-# Frameworks
+###  Frameworks
   
 <li> Vert.X 
 <li> Spring Boot
   
   
-# Cloud
+###  Cloud
 <li> AWS (certified Solutions Architect)
   
-# SRE
+###  SRE
   
 <li> Prometheus
 <li> Graphite
 <li> Grafana
   
-# Data Stores
+###  Data Stores
   
 <li> PostgreSQL
 <li> MongoDB
 <li> DynamoDB
 <li> MariaDB
 
-## Areas of Interest
+##  Areas of Interest
 
+<li> Cloud
 <li> SRE
 <li> Software Architecture
-<li> Java World
-<li> Python
 
 
 <!--
