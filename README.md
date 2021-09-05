@@ -38,19 +38,14 @@ Hi, I am Radu - a Software engineer with an interest in building reliable and ef
 <li> Kubernetes
   
 ### Miscellaneous 
-<li> Agile
-<li> Scrum
-<li> XP
-<li> REST
-<li> gRPC
+<li> Agile (Scrum, XP)
 <li> Microservices
+<li> Service interaction: REST, gRPC
   
 
 ##  Areas of Interest
-<li> Cloud
+<li> Software Architecture for the Cloud
 <li> SRE
-<li> Software Architecture
-
 
 <!--
 **raadned/raadned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
