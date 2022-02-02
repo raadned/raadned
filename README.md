@@ -18,9 +18,11 @@ Hi, I am Radu - a Software engineer with an interest in building efficient, reli
 
 ## 🌱 I’m interested in...  
 
-#### Software Architecture
+#### Cloud Native Development
 
 #### Site Reliability Engineering
+
+#### Distributed Systems
 
 <!--
 **raadned/raadned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
